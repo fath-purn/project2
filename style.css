@@ -1,0 +1,58 @@
+.banner {
+    background: url("img/bg.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: 0 auto;
+    height: 150px;
+    color: white;
+    background-color: #dc3545;
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;   
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    border: 5px solid #cccccc;
+}
+
+a.sosial{
+    display: inline-block;
+    width: 40px;
+    height:40px;
+    color: white;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak {
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: white;
+}
+
+.banner .kontak. .tim .sosial .client {
+    padding: 5rem;
+}
