@@ -56,3 +56,8 @@ a.sosial{
 .banner .kontak. .tim .sosial .client {
     padding: 5rem;
 }
+
+.tentang img {
+    display: inline-block;
+    width: 300px;
+}
